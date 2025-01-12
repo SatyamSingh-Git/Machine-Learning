@@ -9,4 +9,4 @@ Welcome to my **Machine Learning Projects Repository**! This repository showcase
 The repository is organized as follows:
 
 ---
--**Breast Cancer Prediction Model(Logistic Regression)**
+- **Breast Cancer Prediction Model(Logistic Regression)**
